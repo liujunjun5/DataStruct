@@ -28,8 +28,8 @@ public class maxSatisfied {
         return ans + base;
     }
 
-    public static void main(String[] args) {
-        maxSatisfied solution = new maxSatisfied();
-        System.out.println(solution.maxSatisfied(new int[]{3, 2, 5}, new int[]{0, 1, 1}, 2));
-    }
+    //public static void main(String[] args) {
+    //    maxSatisfied solution = new maxSatisfied();
+    //    System.out.println(solution.maxSatisfied(new int[]{3, 2, 5}, new int[]{0, 1, 1}, 2));
+    //}
 }
